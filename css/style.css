@@ -1,3 +1,6 @@
+.wrapper{
+	max-width: 100%;
+}
 body {
 	font-family: "Lato", serif;
 	line-height: 25.6px;
@@ -16,7 +19,7 @@ body {
 	margin-bottom: 15px;
 }
 .menu__link {
-	padding: 10px 20px;
+	margin: 10px 20px;
 
 }
 
@@ -74,14 +77,12 @@ body {
 }
 .subscribe__container {
 	width: 100%;
-	margin: 120px 0;
+	margin-bottom: 120px;
 	background-image: url("../img/illustration.png");
 	background-repeat: no-repeat;
 	background-position: 30% center;
 	background-color: #f4f5f6;
 }
-
-
 
 .footer__container {
 	width: 100%;
